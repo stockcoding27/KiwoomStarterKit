@@ -1,4 +1,7 @@
-# YouTube 주식코딩 강의 예제 코드
+# YouTube 주식코딩 키움 REST API 강의 예제 코드 
+## 해당 코드는 chapter2까지만 있는 무료 스타터 키트입니다. 전체 코드는 Github 스폰서를 통해 엑세스 하세요!
+### Github Sponsor 링크: https://github.com/sponsors/StockCodingYouTube
+
 ## 키움증권 REST API / Websocket 예제
 ## Python 3.10 버전 Anaconda 환경 사용 
 ### 환경 설정 방법 - 자세한 내용은 영상 참고
